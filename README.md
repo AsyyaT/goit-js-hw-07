@@ -1,1 +1,1 @@
-First Java Script project
+Java Script project
